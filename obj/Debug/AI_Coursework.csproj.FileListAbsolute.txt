@@ -1,0 +1,14 @@
+G:\Uni\AI\AI Coursework C#\AI_Coursework\AI_Coursework\obj\Debug\AI_Coursework.csprojAssemblyReference.cache
+G:\Uni\AI\AI Coursework C#\AI_Coursework\AI_Coursework\obj\Debug\AI_Coursework.csproj.CoreCompileInputs.cache
+G:\Uni\AI\AI Coursework C#\AI_Coursework\AI_Coursework\bin\Debug\AI_Coursework.exe.config
+G:\Uni\AI\AI Coursework C#\AI_Coursework\AI_Coursework\bin\Debug\AI_Coursework.exe
+G:\Uni\AI\AI Coursework C#\AI_Coursework\AI_Coursework\bin\Debug\AI_Coursework.pdb
+G:\Uni\AI\AI Coursework C#\AI_Coursework\AI_Coursework\obj\Debug\AI_Coursework.exe
+G:\Uni\AI\AI Coursework C#\AI_Coursework\AI_Coursework\obj\Debug\AI_Coursework.pdb
+D:\Uni\AI\AI Coursework C#\AI_Coursework\AI_Coursework\obj\Debug\AI_Coursework.csprojAssemblyReference.cache
+D:\Uni\AI\AI Coursework C#\AI_Coursework\AI_Coursework\obj\Debug\AI_Coursework.csproj.CoreCompileInputs.cache
+D:\Uni\AI\AI Coursework C#\AI_Coursework\AI_Coursework\obj\Debug\AI_Coursework.exe
+D:\Uni\AI\AI Coursework C#\AI_Coursework\AI_Coursework\obj\Debug\AI_Coursework.pdb
+D:\Uni\AI\AI Coursework C#\AI_Coursework\AI_Coursework\bin\Debug\AI_Coursework.exe.config
+D:\Uni\AI\AI Coursework C#\AI_Coursework\AI_Coursework\bin\Debug\AI_Coursework.exe
+D:\Uni\AI\AI Coursework C#\AI_Coursework\AI_Coursework\bin\Debug\AI_Coursework.pdb
